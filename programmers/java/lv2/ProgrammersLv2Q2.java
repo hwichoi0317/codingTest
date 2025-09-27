@@ -5,7 +5,7 @@ import java.util.*;
  * 
  */
 public class ProgrammersLv2Q2 {
-    
+    /* 
     public static void main(String[] args) {
         System.out.println(
             Arrays.toString( solution(6, 6
@@ -13,7 +13,7 @@ public class ProgrammersLv2Q2 {
             )
         );
     }
-    
+    */
     
     public static int[] solution(int rows, int columns, int[][] queries) {
         int[] answer = new int[queries.length];
