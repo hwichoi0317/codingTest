@@ -7,13 +7,13 @@ import java.util.*;
  * 
  */
 public class ProgrammersLv1Q4 {
-    
+    /*     
     public static void main(String[] args) {
         System.out.println(
             solution("pPoooyY")
         );
     }
-    
+    */
     public static boolean solution(String s) {
         s = s.toLowerCase(); // 문자열 s 내용 모두 소문자로 바꾸기
         boolean answer = true;

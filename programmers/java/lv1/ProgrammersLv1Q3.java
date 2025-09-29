@@ -7,13 +7,13 @@ import java.util.*;
  * 
  */
 public class ProgrammersLv1Q3 {
-    
+    /* 
     public static void main(String[] args) {
         System.out.println(
             solution(118372)
         );
     }
-    
+    */
     public static long solution(long n) {
         StringBuilder answer = new StringBuilder();
         String nString = Long.toString(n);
